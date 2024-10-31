@@ -1,5 +1,5 @@
 {
-    "name": "jaybizzle/laravel-migrations-organiser",
+    "name": "chrischerrett/laravel-migrations-organiser",
     "description": "A Laravel package to help organise migration files.",
     "keywords": [
         "laravel",
